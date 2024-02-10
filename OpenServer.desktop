@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo python3 /home/ninetydev/HostP/host.py
+Name=Simple Mini OpenServer
+Comment=Mini openserver
+Icon=/home/ninetydev/HostP/icon.jpg
+
